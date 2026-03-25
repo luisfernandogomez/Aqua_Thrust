@@ -11,6 +11,7 @@ Converts Aircommand simulation data into ENG-compatible format
 Generates Excel files ready for Free ENG Editor
 Enables water rocket simulation in OpenRocket
 Simple and reproducible workflow
+
 ⚙️ Workflow
 Run simulation in Aircommand Rockets
 Export thrust/time data
@@ -18,17 +19,19 @@ Process data using this tool
 Open the generated Excel file in Free ENG Editor
 Export .ENG file
 Import into OpenRocket as a motor
+
 ⚠️ Limitations
 This is not a physics-based water rocket model
 Accuracy depends entirely on input simulation data
 Current workflow requires manual interaction with Free ENG Editor
+
 🔧 Roadmap
 Direct .ENG file export (remove dependency on Free ENG Editor)
 Standalone executable
 Improved data validation and automation
 Potential integration with simulation frameworks like RocketPy
-🤝 Contributing
 
+🤝 Contributing
 Contributions, feedback, and suggestions are welcome.
 
 If you are working on water rocket simulation, unconventional propulsion systems, or looking to improve interoperability between tools, feel free to open an issue or reach out.
